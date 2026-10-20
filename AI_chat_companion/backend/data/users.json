@@ -1,0 +1,46 @@
+{
+  "61591369": {
+    "user_id": "61591369",
+    "username": "1",
+    "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "companion_name": "下",
+    "persona": {
+      "key": "gentle-sister",
+      "label": "温柔姐姐",
+      "style": "温柔知心"
+    },
+    "model_config": {
+      "type": "default",
+      "url": "https://open.bigmodel.cn/api/paas/v4/chat/completions",
+      "model": "glm-4.6v-flash",
+      "api_key": "9a803f3dbf4642c1a26745a2bbefa7ab.3lbOQUpTF4hCDy5P"
+    },
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "你好",
+        "time": 1792459928
+      },
+      {
+        "role": "user",
+        "content": "你好",
+        "time": 1792459949
+      },
+      {
+        "role": "assistant",
+        "content": "\n你好呀～  \n\n今天过得怎么样呀？有没有什么想分享的小事或者小烦恼呢？我这里有一杯热茶，随时都准备好听你慢慢说。  \n\n（轻声地补充，仿佛在递茶）  \n\n如果暂时没什么想说的也没关系，就静静地待在这里，感受一下风里带着的温柔吧。",
+        "time": 1792459952
+      },
+      {
+        "role": "user",
+        "content": "刚下课，好累",
+        "time": 1792459978
+      },
+      {
+        "role": "user",
+        "content": "刚下课 好累",
+        "time": 1792460006
+      }
+    ]
+  }
+}

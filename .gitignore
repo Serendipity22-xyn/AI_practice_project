@@ -1,0 +1,18 @@
+# ========= Vue / Vite 前端项目 =========
+node_modules/
+dist/
+.vite/
+
+# ========= Python =========
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# ========= 昇腾AscendC / MindStudio =========
+build/
+out/
+*.o
+
+# ========= Windows系统垃圾 =========
+Thumbs.db
