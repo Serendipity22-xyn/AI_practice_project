@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 测试运行时产物
+.pytest_cache/
+.coverage
+
+# 质检标识（运行时生成）
+.code_quality_pass.flag
